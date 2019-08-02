@@ -1,24 +1,4 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ Ayant eu des problemes avec l'installation de Sqlite3, j'ai effectuer le projet avec mon camarade Billel Ketrouci qui fait parti de mon groupe. Nous somme en ruby 2.5.5, si vous voulez lancer le code, il faut changer dans le gem file la version de ruby en 2.5.1 et refaire un bundle install
+ 
